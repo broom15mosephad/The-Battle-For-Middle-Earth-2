@@ -219,4 +219,4 @@ The Battle for Middle-Earth 2 is available as a full free version with all featu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-30 20:25:06 UTC
+**Last updated:** 2026-10-31 00:24:00 UTC
